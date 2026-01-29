@@ -2,7 +2,7 @@
 
 This web application has been developed using HTML,CSS and jaavscript and uses openweather API to present current weather/temp data for the hundreds of cities across the globe.
 
-##Final product
+##final product
 
 <img width="720" alt="Screen Shot 2022-12-28 at 10 46 37 PM" src="https://user-images.githubusercontent.com/83384002/209904772-c9195671-1136-47d0-9b0d-c4fe2be37361.png">
 
