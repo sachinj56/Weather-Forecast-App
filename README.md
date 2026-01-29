@@ -1,6 +1,6 @@
 # Weather-Forecast-App
 
-This web application has been developed using HTML,CSS and jaavscript and uses openweather API to present current weather/temp data for the hundreds of cities across the globe.
+This web application has been developed using HTML,CSS and Jaavscript and uses openweather API to present current weather/temp data for the hundreds of cities across the globe.
 
 ##final product
 
